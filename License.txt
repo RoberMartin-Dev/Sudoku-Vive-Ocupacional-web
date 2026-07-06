@@ -1,0 +1,16 @@
+# Licencia
+
+Copyright © 2025 Vive Ocupacional
+
+Todos los derechos reservados.
+
+Este software y su código fuente son propiedad exclusiva de Vive Ocupacional.
+
+Queda prohibida la copia, reproducción, distribución, modificación,
+ingeniería inversa, publicación, sublicencia o explotación comercial
+total o parcial sin autorización expresa y por escrito del titular.
+
+El acceso público a la aplicación no implica cesión de derechos sobre
+el código fuente ni autorización para reutilizarlo.
+
+https://viveocupacional.com
